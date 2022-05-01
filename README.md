@@ -2,7 +2,7 @@
 
 Clase 5 de android java ITCA 2022
 
-Se realizo examen para evaluar conocimientos el planteamiento fue el siguiente
+Se realizo examen CORTO para evaluar conocimientos el planteamiento fue el siguiente
 
 Crear una aplicación Android que permita la captura de datos de un empleado: nombre, apellido,
 dirección,teléfono y sueldo base en una Activity que tendrá los campos necesarios y un botón
